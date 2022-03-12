@@ -1,0 +1,22 @@
+{
+  "name": "uni-exec",
+  "version": "1.0.0",
+  "description": "Executor universal de codigo JavaScript e Python",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoJorg/Uni-exec.git"
+  },
+  "author": "LeoJorg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoJorg/Uni-exec/issues"
+  },
+  "homepage": "https://github.com/LeoJorg/Uni-exec#readme",
+  "dependencies": {
+    "yarn": "^1.22.17"
+  }
+}
