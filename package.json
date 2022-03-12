@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/LeoJorg/Uni-exec#readme",
   "dependencies": {
+    "shelljs": "^0.8.5",
     "yarn": "^1.22.17"
   }
 }
